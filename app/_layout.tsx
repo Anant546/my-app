@@ -25,7 +25,7 @@
 
 
 
-// _layout.tsx
+
 
 // _layout.tsx
 import { NavigationContainer } from '@react-navigation/native';
